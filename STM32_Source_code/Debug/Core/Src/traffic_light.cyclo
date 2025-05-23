@@ -1,0 +1,4 @@
+../Core/Src/traffic_light.c:10:6:set_time_value	2
+../Core/Src/traffic_light.c:16:6:turn_off_traffic_light	2
+../Core/Src/traffic_light.c:24:6:Turn_on_color	5
+../Core/Src/traffic_light.c:44:6:TrafficLight_run	11

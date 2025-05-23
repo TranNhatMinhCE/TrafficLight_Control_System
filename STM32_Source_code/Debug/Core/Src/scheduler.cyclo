@@ -1,0 +1,6 @@
+../Core/Src/scheduler.c:12:11:create_new_node	1
+../Core/Src/scheduler.c:21:6:sche_init	1
+../Core/Src/scheduler.c:32:9:sche_add_task	6
+../Core/Src/scheduler.c:97:6:sche_update	4
+../Core/Src/scheduler.c:106:6:sche_dispatcher	5
+../Core/Src/scheduler.c:127:6:sche_delete_task	4

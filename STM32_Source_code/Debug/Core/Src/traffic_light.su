@@ -1,0 +1,5 @@
+traffic_light.c:10:6:set_time_value	16	static
+traffic_light.c:16:6:turn_off_traffic_light	16	static
+traffic_light.c:24:6:Turn_on_color	16	static
+traffic_light.c:44:6:TrafficLight_run	8	static
+traffic_light.c:131:6:Manual_TrafficLight	8	static

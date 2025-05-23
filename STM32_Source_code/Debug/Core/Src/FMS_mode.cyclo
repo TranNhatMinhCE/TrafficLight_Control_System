@@ -1,0 +1,3 @@
+../Core/Src/FMS_mode.c:14:6:Blinky_led	5
+../Core/Src/FMS_mode.c:37:6:manual_led	9
+../Core/Src/FMS_mode.c:75:6:FMS_mode_run	24

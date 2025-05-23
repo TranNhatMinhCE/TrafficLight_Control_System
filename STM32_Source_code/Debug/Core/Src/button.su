@@ -1,0 +1,5 @@
+button.c:16:6:init_button	16	static
+button.c:25:6:init_gpi_button	16	static
+button.c:40:5:isButtonPressed	16	static
+button.c:48:5:isButtonLongPressed	16	static
+button.c:56:6:getKeyInput	16	static
